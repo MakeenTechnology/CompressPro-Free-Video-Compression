@@ -70,7 +70,7 @@ A professional-grade video compression application with **universal GPU accelera
 ### **Option 3: Python Source (Developers)** 🐍
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/yourusername/CompressPro.git
+   git clone https://github.com/MakeenTechnology/CompressPro.git
    cd CompressPro
    ```
 2. **Run** the auto-installer:
